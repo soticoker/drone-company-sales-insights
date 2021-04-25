@@ -20,10 +20,13 @@ A dashboard looking at overall revenue trends, revenue by markets as well as the
 
 
 ## Profit analysis dashboard
+![profits](https://user-images.githubusercontent.com/63045067/115999014-f44f6280-a5e1-11eb-8afe-4b45057cdb94.PNG)
+
 A dashboard looking at overall revenue trend as well as a customer table breakdown by revenue, revenue contribution, profit margin contribution and profit margin. The dashboard also has a chart section detailing the company's most profitable towns in the UK market.
 
 
 ## Performance dashboard
+![performance](https://user-images.githubusercontent.com/63045067/115999029-03361500-a5e2-11eb-8e98-a1d9b5a3147f.PNG)
 A dashboard looking at revenue contribution by markets which responds dynamically to the profit target percentage which can be adjusted using a slicer at  the top of the page.  
 
 A revenue trend combo chart is also included showing & comparing the selected years revenue versus the previous years figures.  
