@@ -7,7 +7,7 @@ It's Power BI's formula expression language and is used to do brillant calculati
 
  	
 ### Install and view
-In order to get the file working, you need to install Power BI. It's free and you can download it from Microsoft:
+In order to get the file working on your PC, you need to install Power BI. It's free and you can download it from Microsoft:  
 https://www.microsoft.com/en-gb/download/details.aspx?id=58494
 
 Make sure you download the proper 32Bit or 64bit file, depending on which version of Microsoft Office you are using.  
