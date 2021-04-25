@@ -14,6 +14,8 @@ Make sure you download the proper 32Bit or 64bit file, depending on which versio
 
 
 ## Key insights dashboard
+![keyinsights](https://user-images.githubusercontent.com/63045067/115998942-a6d2f580-a5e1-11eb-8471-0d60c7f22bb4.PNG)
+
 A dashboard looking at overall revenue trends, revenue by markets as well as the businesses top five customers and products
 
 
