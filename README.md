@@ -5,6 +5,8 @@ A data analysis project to help a fictitious drone retail business analyse their
 I created this project because I wanted to improve my Power BI skills and learn DAX(Data Analysis Expressions). 
 It's Power BI's formula expression language and is used to do brillant calculations.
 
+<iframe width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiZTk2MWEzODYtZWEzNy00MjEyLThlNmYtOThlNGQyYzY2MTYxIiwidCI6Ijc4MDAyOWVmLWI1YWYtNDQzYi05MTNmLWJhNDlmNjJmMDdkMyJ9" frameborder="0" allowFullScreen="true">
+</iframe>
  	
 ### Install and view
 In order to get the file working on your PC, you need to install Power BI. It's free and you can download it from Microsoft:  
