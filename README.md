@@ -5,9 +5,9 @@ A data analysis project to help a fictitious drone retail business analyse their
 I created this project because I wanted to improve my Power BI skills and learn DAX(Data Analysis Expressions). 
 It's Power BI's formula expression language and is used to do brillant calculations.
 
-You can view the dashboard by clicking on this link .... 
+You can view the dashboard by clicking on this link: 
 
-[Drone Company Sales Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQwNTQ4ZTktYWU3Zi00ZTBkLWE1N2YtNTk0MzZlMTJkMmViIiwidCI6Ijc4MDAyOWVmLWI1YWYtNDQzYi05MTNmLWJhNDlmNjJmMDdkMyJ9)
+[**Drone Company Sales Insights Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTQwNTQ4ZTktYWU3Zi00ZTBkLWE1N2YtNTk0MzZlMTJkMmViIiwidCI6Ijc4MDAyOWVmLWI1YWYtNDQzYi05MTNmLWJhNDlmNjJmMDdkMyJ9)
 
 ## Key insights dashboard
 ![keyinsights](https://user-images.githubusercontent.com/63045067/116141743-ffcd8700-a6d0-11eb-873b-24e528645c03.PNG)
