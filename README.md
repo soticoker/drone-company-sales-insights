@@ -5,7 +5,14 @@ A data analysis project to help a fictitious drone retail business analyse their
 I created this project because I wanted to improve my Power BI skills and learn DAX(Data Analysis Expressions). 
 It's Power BI's formula expression language and is used to do brillant calculations.
 
+### View live or download
 You can view the live dashboard by clicking on this link: [Drone Company Sales Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQwNTQ4ZTktYWU3Zi00ZTBkLWE1N2YtNTk0MzZlMTJkMmViIiwidCI6Ijc4MDAyOWVmLWI1YWYtNDQzYi05MTNmLWJhNDlmNjJmMDdkMyJ9)
+
+Alternatively, In order to get the file working on your PC, you need to download the DroneSalesInsights.pbix file and install Power BI. 
+It's free and you can download it from Microsoft:
+https://www.microsoft.com/en-gb/download/details.aspx?id=58494
+
+Make sure you download the proper 32Bit or 64bit file, depending on which version of Microsoft Office you are using.  
 
 ## Key insights dashboard
 ![keyinsights](https://user-images.githubusercontent.com/63045067/116141743-ffcd8700-a6d0-11eb-873b-24e528645c03.PNG)
