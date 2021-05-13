@@ -6,7 +6,7 @@ I created this project because I wanted to improve my Power BI skills and learn 
 It's Power BI's formula expression language and is used to do brillant calculations.
 
 ### View live or download
-You can view the live dashboard by clicking on this link: [Drone Company Sales Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQwNTQ4ZTktYWU3Zi00ZTBkLWE1N2YtNTk0MzZlMTJkMmViIiwidCI6Ijc4MDAyOWVmLWI1YWYtNDQzYi05MTNmLWJhNDlmNjJmMDdkMyJ9)
+You can view the live dashboard by clicking on this link: [Drone Company Sales Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzk5Yjc1M2UtNGRkNi00NWZjLWFiNTUtMjcwODFhOTViYWQ5IiwidCI6Ijc4MDAyOWVmLWI1YWYtNDQzYi05MTNmLWJhNDlmNjJmMDdkMyJ9)
 
 Alternatively, In order to get the file working on your PC, you need to download the DroneSalesInsights.pbix file and install Power BI. 
 It's free and you can download it from Microsoft:
